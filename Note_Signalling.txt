@@ -1,0 +1,145 @@
+Signalling Basic:
+
+- Railway Signalling system used to control Railway Traffic Safely
+
+# Control over movement of Trains
+	Basically, two types of controls could be catered for
+	
+1. Time Interval Method
+
+2. Space Interval Method:
+->The driver of the approaching train must be able to know whether the next block is not clear, he 
+should stop and wait. Here is where "signal" comes in.
+
+
+#Scope of Signalling system
+-Avoid collision and derailment
+ Manage safe passenger exchange
+ Ensure passenger protection and information
+ Drive the train
+ Regulate the traffic
+ Insert/ remove train from the mainline
+
+
+#Conclusion
+It can be concluded from description of concept of Signalling 
+that the main purpose of Railway Signalling Systems is to 
+maintain a safe distance between trains on the same track
+
+#Train detection
+
+The presence of a train on a portion of track can be detected by 
+track circuits or axle counters and this information is used for 
+controlling the signal, which in turn controls the train 
+movement
+
+-An Axle Counter System determines the track vacancy; it supplies the information about whether a track in a particular section is clear or occupied,
+ thereby permitting safe, trouble-free and efficient operations management of trains.
+ 
+ 
+ #type of track circuit is used for the Rail and Metro Corridor :
+ Track Circuit DC
+ Track Circuit SDTC
+ Track Circuit CVCM
+ Track Circuit HVIT
+
+
+#POINT
+
+A Point is a mechanical installation enabling trains to be guided 
+from one track to another.
+A point is constituted of one or two ends.
+It is also referred as switch in some countries
+
+#OVERLAP
+Overlap is the length of track in advance of a stop signal, which 
+must be kept clear for clearing the stop signal next in rear.
+An overlap provides protection against the consequences of a train 
+overrunning a signal at red
+
+
+#BRAKING DISTANCE
+The distance travelled by a train after its brakes are applied is known as the 
+braking distance, and this is an important concept in signalling for determining the signal 
+sighting distance
+
+=> Braking distance is a function of speed and other factors, such as the brake power available, 
+gradient, rollability of wheels, and the state of rails (wet or dry), curvature of track and velocity 
+of wind, etc., which cannot be established very accuratel
+
+
+#ISOLATION
+trap points
+safety points
+side protection switch (US)
+
+points provided in a line to prevent unauthorised
+movements from that line on to another line, and 
+which are interlocked to provide flank protection
+
+
+#Station
+STATION means any place on a line at which traffic is dealt with.
+Passengers may board and alight from trains and/or goods may be 
+loaded or unloaded
+
+
+#Platform
+A railway platform is a section of pathway, alongside rail tracks at a 
+train station, at which passengers may board or alight from 
+trains.
+
+
+Track Circuit :
+=>How track circuit works in broken rail track ?
+
+
+Axle Counter :
+=>An AC is a system used in railways to detect the "clear" or "occupied" status of a section between two points.
+
+Block system:
+
+
+================================================================================
+ ERTMS-ETCS :
+ 
+The learner will be introduced with the origin of ERTMS-ETCS and the key actors of the associated Normative Framework.
+
+#Track side sub system:
+
+- Eurobalise  ( Transmission device  , Up link , from trackside to on board sub-system)
+- Lineside electrical unit
+- Radio communication network
+- Radio Block center
+- Euro loop
+- Radio infill unit
+- key management center (KMC)
+- Public key infrastructure
+
+
+#Radio Communication network
+
+- GSM-R system
+	-Master switch controller
+	-Base station Controller
+	-Antenna
+	
+	
+	
+# On Board sub system:
+
+	- ERTMS/ETCS  on-board eqipment
+	- The GSM-R on-board radio system 
+		for the bi - directional exchnage of messages between on-board subsystem and RBC( Radio infill unit )
+		
+		
+# ETCS Application level:
+	Different levels are available, these level are used depending on track equipment and determine the type of transmission of information.
+	
+	level 0  => its not equipped with any ETCS , nor with National system ; in this case ETCS onboard sub-system is not responsible for the movement safety. 
+	level NTC
+	level 1
+	level 2
+	level 3
+
+
