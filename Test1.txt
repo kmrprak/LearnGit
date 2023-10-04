@@ -11,5 +11,3 @@ new line from Dev1 branch.
 new line from Dev1 branch.
 -----------------------------
 added new line from master.
-
-
